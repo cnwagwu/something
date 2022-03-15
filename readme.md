@@ -1,7 +1,7 @@
 ### Introduction
 Insert description of the program details  
 
-We are grateful to our host offices who provided our Corps members the opportunity to serve and grow this summer:
+We are grateful to participating state agencies:
 - [Insert name of agency or department](https://google.com)
 
 
